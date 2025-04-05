@@ -2,6 +2,7 @@
 
 
 US Flight Data From : https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp
+\n
 Datatype of fields: 
          year:int,
          month:int,
@@ -26,6 +27,7 @@ Datatype of fields:
          late_aircraft_delay:double
 
 Airports DataSet From : https://github.com/lxndrblz/Airports/blob/main
+\n
 Datatype of fields: 
             code:chararray,
             icao:chararray,
