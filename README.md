@@ -3,6 +3,8 @@
 
 US Flight Data From : https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp
 <br>
+(comma seperators replaced with '|' to help with apache pig loading)
+<br>
 Datatype of fields: 
 <br>
          year:int,
